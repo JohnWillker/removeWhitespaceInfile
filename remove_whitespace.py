@@ -1,4 +1,5 @@
 #!/bin/env python3
+#Author: https://github.com/JohnWillker
 
 def removeWhitespaceInfile(file):
     var_file = open(file, "r")
