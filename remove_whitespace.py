@@ -12,6 +12,6 @@ def removeWhitespaceInfile(file):
     var_file.write(conte)
     var_file.close()
 
-file = input("Informe nome do arquivo: ")
+file = input("Insert file's name: ")
 removeWhitespaceInfile(file)
 print("OK")
